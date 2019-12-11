@@ -10,8 +10,8 @@ The purpose of this Rscript is to
 4. Appropriately label the data set with descriptive variable names.
 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The output of run_analysis.R is the text file Final_Data_KathrynMcDonald2.txt.
+The output of `run_analysis.R` is the text file `Final_Data_KathrynMcDonald2.txt`.
 
 ## Code Book
 
-A code book markdown file, CodeBook.md is also included to provide a detailed description of variables and code used to analyze the training and test data sets, to create Final_Data_KathrynMcDonald2.txt.
+A code book markdown file, `CodeBook.md`, is also included to provide a detailed description of variables and code used to analyze the training and test data sets, to create `Final_Data_KathrynMcDonald2.txt`.
