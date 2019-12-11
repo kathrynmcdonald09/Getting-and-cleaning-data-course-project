@@ -1,7 +1,7 @@
-## Getting-and-cleaning-data-course-project
+# Getting and cleaning data course project
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
-##run_analysis.R
+## run_analysis.R
 
 The purpose of this Rscript is to 
 1. Merge the training and the test sets to create one data set.
@@ -12,6 +12,6 @@ The purpose of this Rscript is to
 
 The output of run_analysis.R is the text file Final_Data_KathrynMcDonald2.txt.
 
-##Code Book
+## Code Book
 
 A code book markdown file, CodeBook.md is also included to provide a detailed description of variables and code used to analyze the training and test data sets, to create Final_Data_KathrynMcDonald2.txt.
